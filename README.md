@@ -20,7 +20,7 @@ sudo pacman -S neovim
 
 -----------------------------
 ### After install Neovim, make directories and files.
-### Or you can use my script (faster process) : ![install.sh](install.sh)
+### Or you can use my script (faster process) : ![mkdir.sh](mkdir.sh)
 ```
 $ mkdir ~/.config/nvim
 $ touch ~/.config/nvim/init.vim
