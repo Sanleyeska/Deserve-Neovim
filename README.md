@@ -16,7 +16,7 @@ sudo pacman -S neovim
 -----------------------------
 
 ### Project Management with the plugin Startify
-![Neovim](assets/images/1.png)
+![Neovim](assets/images/startify.png)
 
 -----------------------------
 ### After install Neovim, make directories and files.
